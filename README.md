@@ -204,7 +204,7 @@ AI Engineer 포트폴리오 사이트. Neural Noir 자체 디자인 시스템, T
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Juhwan01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Juhwan01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

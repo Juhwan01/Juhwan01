@@ -181,20 +181,20 @@ Q-learning 기반 지능형 레시피 추천 및 식재료 거래 플랫폼. 사
 <tr>
 <td width="50%">
 
+**[Structural Stability Prediction](https://github.com/Juhwan01/structural-stability-prediction)**
+
+데이콘 구조물 안정성 물리 추론 AI 경진대회. Dual-Stream ConvNeXt-V2 + FDA 도메인 적응 + Knowledge Distillation. CV LogLoss 0.024 달성.
+
+`ConvNeXt-V2` `FDA` `Knowledge Distillation` `PyTorch`
+
+</td>
+<td width="50%">
+
 **[KLeague-Pass-Prediction](https://github.com/Juhwan01/KLeague-Pass-Prediction)**
 
 K리그 경기 내 최종 패스 좌표 예측 AI. 실제 경기 이벤트 데이터 기반 스포츠 분석.
 
 `Sports Analytics` `Deep Learning` `Jupyter`
-
-</td>
-<td width="50%">
-
-**[Electricity-Load-Forecasting](https://github.com/Juhwan01/Electricity-Load-Forecasting)**
-
-전력 부하량 시계열 예측 모델. 에너지 도메인 실용 적용.
-
-`Time Series` `Forecasting` `Jupyter`
 
 </td>
 </tr>

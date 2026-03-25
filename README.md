@@ -67,6 +67,22 @@ me = AIEngineer()
 
 ## Featured Projects
 
+### SAiM (beans-pirates)
+
+<table>
+<tr>
+<td width="100%">
+
+**[SAiM RecSys](https://github.com/Juhwan01/SAiM-RecSys)** | [beans-pirates](https://github.com/beans-pirates)
+
+605개 운동 x 6 페르소나 개인화 운동 추천 엔진. KNHANES 기반 합성 유저 → K-Prototypes 클러스터링 → LinUCB Contextual Bandit 학습 → FastAPI 서빙. Hit@5 56.6%, 부상 안전 위반 0건, ACSM/NSCA 가이드라인 준수. Docker Compose 7-service 풀스택 + Prometheus/Grafana 모니터링 + 123 tests.
+
+`LinUCB` `FastAPI` `PostgreSQL` `Redis` `MLflow` `Docker` `Prometheus` `Grafana`
+
+</td>
+</tr>
+</table>
+
 ### Multi-Agent & LLM
 
 <table>

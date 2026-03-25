@@ -91,7 +91,7 @@ MCP 서버 기반 DevOps 위기 관리 시스템. Docker 컨테이너 자동 복
 <tr>
 <td width="50%">
 
-**[WIDE](https://github.com/Juhwan01/WebAssistant)**
+**[WIDE](https://github.com/Juhwan01/capstone)** ([Server](https://github.com/Juhwan01/Capstone-Design))
 
 LangGraph 기반 AI 지능형 코드 에디터. 실시간 코드 분석 및 자동 완성, AI 기능 총괄 설계 및 백엔드 API 구축. (팀장)
 
@@ -116,7 +116,7 @@ PyPI 배포된 Jira Cloud 전용 MCP 서버. 27개 도구, 50건 벌크 생성, 
 <tr>
 <td width="50%">
 
-**[AllerGuard](https://github.com/Juhwan01/Allergy-Detection-Service)**
+**[AllerGuard](https://github.com/Goorm-AI-Semi-Project/AllerGuard)**
 
 식품 라벨 OCR + 3단계 Fallback(RAG/NLI/웹검색) 기반 알레르기 자동 판별 서비스. LangGraph 파이프라인, GCP Vision API, 1,464개 라벨 검증(95.4% 검출률).
 
@@ -125,7 +125,7 @@ PyPI 배포된 Jira Cloud 전용 MCP 서버. 27개 도구, 50건 벌크 생성, 
 </td>
 <td width="50%">
 
-**[YGYT (여긴어때)](https://github.com/Juhwan01/Project-Oiso)**
+**[YGYT (여긴어때)](https://github.com/Goorm-AI-Semi-Project/YGYT)**
 
 외국인 관광객 맞춤 AI 식당 추천 플랫폼. 자체 GraphHopper 라우팅 엔진 구축, 7,700개 식당 데이터, 27,000건 메뉴 LLM 자동 분류. (팀 리더)
 
@@ -170,7 +170,7 @@ RAG 파이프라인 + AWS OpenSearch 기반 논문 검색/추론 시스템. ReAc
 </td>
 <td width="50%">
 
-**[Chef Market](https://github.com/Juhwan01/Capstone_II)**
+**[Chef Market](https://github.com/Juhwan01/Capstone_II)** ([Front](https://github.com/Juhwan01/chefmarket))
 
 Q-learning 기반 지능형 레시피 추천 및 식재료 거래 플랫폼. 사용자 선호도/영양소 다중 요소 반영, 신뢰도 차등 권한 시스템. (졸업 프로젝트, 팀장)
 

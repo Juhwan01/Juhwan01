@@ -13,7 +13,6 @@ class AIEngineer:
     def __init__(self):
         self.name = "Juhwan Jung"
         self.role = "AI/ML Engineer"
-        self.education = "Inje Univ. CS (GPA 4.16/4.5)"
         self.stack = {
             "ai_ml":    ["PyTorch", "LangGraph", "LangChain", "Hugging Face", "RAG", "MLflow"],
             "backend":  ["FastAPI", "Python", "Docker", "Git"],
